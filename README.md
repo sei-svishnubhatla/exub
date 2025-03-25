@@ -1,5 +1,4 @@
-# exub
-Examples of Undefined Behavior (UB) in C
+# Examples of Undefined Behavior (UB) in C
 
 This document describes the issues around the development of the [examples](./examples.md) proposal. This document is specifically for the C community to use while developing the Examples document.
 
